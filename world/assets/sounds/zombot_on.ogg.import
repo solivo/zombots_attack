@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/zombot_on.ogg-f1967818998ccbdda59fee1b75ff3f9b.oggstr"
+
+[deps]
+
+source_file="res://world/assets/sounds/zombot_on.ogg"
+dest_files=[ "res://.import/zombot_on.ogg-f1967818998ccbdda59fee1b75ff3f9b.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
